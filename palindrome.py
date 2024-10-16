@@ -1,5 +1,6 @@
 def is_palindrome(x):
     # Negative numbers are not palindromes
+    # x is a variable
     if x < 0:
         return False
     
